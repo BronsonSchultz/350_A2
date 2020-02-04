@@ -1,3 +1,7 @@
+/*
+Bronson Schultz, bcs269, 11231230
+CMPT 350, Assignment 2, Nodejs server
+*/
 
 const express = require('express');
 const http = require('http');
